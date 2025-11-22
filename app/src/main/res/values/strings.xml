@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="delete">DEL</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="dot">.</string>
+    <string name="log">Log</string>
+    <string name="antilog">Anti-Log</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="convert">Convert</string>
+    <string name="usd_to_eur">USD to EUR</string>
+    <string name="usd_to_inr">USD to INR</string>
+    <string name="eur_to_usd">EUR to USD</string>
+    <string name="inr_to_usd">INR to USD</string>
+</resources>
